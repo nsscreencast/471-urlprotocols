@@ -1,0 +1,28 @@
+[
+    {
+        "id": 5812,
+        "name": "Website Redesign",
+        "description": "Update our Flash website to something more modern",
+        "owner_id": 13,
+        "tasks": [
+            {
+                "id": 7412,
+                "title": "Set up the new project",
+                "completed_at": "2020-01-05T07:25:00Z",
+                "completed_by_id": 13
+            },
+            {
+                "id": 74145,
+                "title": "Get copy for the landing page",
+                "completed_at": null,
+                "completed_by_id": null
+            },
+            {
+                "id": 74412,
+                "title": "",
+                "completed_at": null,
+                "completed_by_id": null
+            }
+        ]
+    }
+]
